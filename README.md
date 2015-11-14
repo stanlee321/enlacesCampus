@@ -1,4 +1,4 @@
-# enlacesCampus
+# enlaces_innovaBolivia
 Enlaces para informacion relevante a la presentacion del proyecto que se mensiona.
 [1] http://revistavirtual.redesma.org/vol10/pdf/informacion/recursos_hidricos_bol.pdf
 
